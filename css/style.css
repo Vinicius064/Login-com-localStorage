@@ -50,3 +50,6 @@
 #opcoes a{
 	color: #0000CD;
 }
+input:focus{
+	outline: 0;
+}
